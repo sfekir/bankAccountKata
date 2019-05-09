@@ -81,9 +81,4 @@ public class Operation {
 		return dateOp;
 	}
 
-	public double add(double amount) {
-		return this.balance += amount;
-
-	}
-
 }
